@@ -1,0 +1,119 @@
+{
+//本翻译补丁经检查没有任何问题。
+  "DialogueDictionary": {
+    //chert_hint_recorder.xml
+    "RECORDING": "录音",
+    "Hello Hatchling! I hope Feldspar didn’t put this anywhere terribly dangerous, but knowing them they almost certainly did. I know that they’re our best pilot, but they can be a little reckless sometimes.": "你好呀，小家伙！但愿费尔德斯巴没把这东西藏在什么要命的地方——不过以他的性子，十有八九他还是这么做了。我知道他是我们最棒的飞行员，但有时候他确实有点太莽撞了。",
+    "Anyway, you're not here to hear about all that, you're here to figure out about the next hint and the next part of the combination! I’ll answer the combination first, you need to hit the third button again.": "不过你过来也不是听我聊这些的，你是为了找下一条线索，还有密码的下一部分来的！我先告诉你密码吧——你得再按一次第三个按钮。",
+    "As for Gabbro’s hint, I’m pretty proud of this one. You know how much I love to brag about my skills with my Little Scout, but the other day I managed to hit something really impressive without even leaving my camp on Ember Twin! So, I think I’m going to tie Gabbro’s recording to a Little Scout, and launch it at that same thing again.": "至于加布罗的线索嘛，这我可是超得意的。你知道我总爱吹嘘自己操控小侦察兵的本事，前几天我甚至没离开余烬双星上的营地，就精准地命中了一个目标！所以我打算把加布罗的录音绑在小侦察兵上，再朝那个目标发射过去。",
+    "As for what that thing is, I’ll just tell you that it is small and nobody has landed on it yet. I’ll make sure to land the message on the front of it for you, so it’s easier to find.": "至于那个目标是什么嘛，我只能告诉你：它体积不大，而且还没人在上面登陆过。我会把留言精准投送到它的正面，这样你找起来也方便些。",
+
+    //esker_hint_recorder.xml
+    "RECORDING": "录音",
+    "Hey hatchling! If you're listening to this, that means that Slate’s done their job and given you a bit of an intro to what we’ve set up for you. I’m gonna go ahead and give you some more details though, since we didn’t keep Slate fully informed lest they spoil the surprise like they did for your birthday party that one time.": "嘿，小家伙！如果你听到这段录音，说明斯雷特已经跟你简单提过我们为你准备的惊喜了。不过我还是再跟你细说几句吧——我们没把所有事都告诉斯雷特，免得他们又像上次你的生日派对那样，把惊喜全搞砸了。",
+    "Anyway, I’m rambling again. Welcome to the first Outer Wilds Ventures Onboarding Scavenger Hunt! The other travelers and I have hid a number of hints throughout the solar system, each with two pieces of information that you’ll need to finish.": "哎呀，我又絮叨起来了。欢迎参加首届星际拓荒探险队的新手寻宝游戏！我和其他旅行者在整个太阳系藏了好些线索，每条线索里都有你完成任务需要的两条关键信息。",
+    "The first thing each hint will have is, well, a hint about where to find the next one. The second thing they’ll have is a part of the code to open that safe next to the launchpad elevator.": "每条线索首先会告诉你，下一条线索藏在哪儿；其次呢，会告诉你发射台电梯旁那个保险箱的密码片段。",
+    "Now, you’ve got all of the time in the world to complete this hatchling, so take your time and stay safe. We figure that this will also serve as a decent introduction to the solar system, so keep your eyes open and have fun!": "小家伙，你有的是时间完成这个任务，慢慢来，注意安全。我们觉得这也能让你好好认识一下太阳系——所以睁大眼睛，玩得开心点！",
+    "...": "……",
+    "Oh right, the hint and combination segment! Okay, so, the first button you’re gonna need to hit is the third one.": "哦对了，该说线索和密码了！听好，你要按的第一个密码按钮是第三个。",
+    "As for the next recording, well, it’s gonna be from Feldspar and, knowing them, I figured you’re gonna need to know how to repair your ship to go where they send you. So, I’ve taken the liberty of putting their recording somewhere where you can get some practice. Good luck!": "至于下一段录音嘛，是费尔德斯巴留的。以他的脾气，我猜你得先学会修飞船，才能去他指定的地方。所以我擅自把他的录音藏到了一个能让你练手修飞船的地方。祝你好运！",
+
+    //feldspar_hint_recorder.xml
+    "RECORDING": "录音",
+    "Hey kid! Looks like you found my recording, no surprise there. Esker’s always been on the side of safety over adventure, so I’m sure they didn’t put it anywhere too fun. So, how about I send you on a more proper adventure!": "嘿，小子！看来你找到我的录音了，这倒不意外。埃斯科总是把安全看得比冒险重，肯定没把录音藏在什么有意思的地方。不如让我带你去进行一场真正的冒险怎么样！",
+    "I’ve got Chert’s recording in my hand here, and I’m thinking I’m gonna send you to one of the places on my to-do list.": "我手头正拿着切特的录音呢，打算把你派去我待办清单上的一个地方。",
+    "Seeing as one of them is Dark Bramble, and even I’m a fair deal nervous about going there, I think I’ll leave it in the last place I’m going before that. Catch is, you’ve gotta figure out where that is and how to get there!": "其中一个地方是黑棘星，就连我都对那儿发怵，所以我决定把录音藏在我去那儿之前最后要去的地方。不过你得自己琢磨这地方在哪儿、该怎么去！",
+    "Also, the second part of the combination is the middle button. Have fun, hatchling!": "对了，密码的第二个部分是按中间那个按钮。玩得尽兴点，小家伙！",
+
+    //gabbro_hint_recorder.xml
+    "RECORDING": "录音",
+    "Nice, looks like you found my recording, wherever Chert hid it. Hopefully nowhere too uncomfy, you’ll have to tell me where it falls on the Gabbro Relaxation Scale when you come say hi, heh.": "不错嘛，看来你找到我的录音了——不管切特把它藏哪儿了，但愿那地方不算太难受。等你来找我唠嗑时，得跟我说说这地方在“加布罗放松等级表”上能排第几，嘿嘿。",
+    "Anyway, the next button you’re gonna need to press is the first one. As in the farthest to the left, not the first button you had to press. Anyway, the hint…": "言归正传，你接下来要按的密码按钮是第一个——就是最左边那个，不是你之前按过的第一个。对了，线索嘛……",
+    "Oh, that’s right, I hid Riebecks hint. Heh, don’t know how I forgot, they made me promise them three separate times that I wasn’t going to put it anywhere dangerous. They’ve always been such a worrywort, but they still manage to haul themself into space to look at old ruins. All I have to say for the hint is this.": "哦对了，瑞拜克的线索是我藏的。哈哈，我都差点忘了，他们反复让我保证了三次，不让我把线索藏在危险的地方。瑞拜克这人总爱瞎操心，但还是会硬着头皮跑到太空里去研究古老遗迹。关于线索，我就说这么一句：",
+    "The quiet shade, where the trees do move, in the ancient glade, I’ve left something for you.": "宁静阴凉处，树木非静物。林间空地中，予你留一物。",
+    "I know I know, it’s not great, but hey, cut me some slack, I’m trying to work an old poem into a hint, so it’s not perfect. Anyway, good luck finding the rest of the combo, and take it easy.": "我知道我知道，写得不咋样，不过行行好，嘴下留情嘛——我这是想把一首老诗改成线索，肯定没法尽善尽美。不管怎样，祝你找齐剩下的密码，放轻松点。",
+
+    //hal_hint_recorder.xml
+    "RECORDING": "录音",
+    "...": "…",
+    "......": "……",
+    "Aw, c’mon buddy, you didn’t really think you weren’t gonna hear from your buddy Hal, did you?": "哎呀，伙计！你该不会真觉得你的好朋友哈尔会不跟你说两句吧？",
+    "When I was walking by the museum a couple months ago and heard all of the travelers planning this, I knew that I had to get in on it.": "几个月前我路过博物馆，听到那帮旅行者在策划这事，我就知道我必须掺一脚进来。",
+    "I mean seriously, we’ve been best buds since we were hatchlings, I’m borderline insulted that they didn’t ask for me to participate!": "说真的，我们从小就是最好的朋友，但他们居然没邀请我参加，我都快气炸了！",
+    "...Not really, of course, I know that there’s a certain camaraderie that you travelers have that doesn’t quite extend to the ground crew, so it makes sense that they wanted to do something for ya.": "……当然啦，其实也没真生气。我知道你们这些旅行者之间有种特殊的情谊，地面工作人员确实没法完全融入，所以他们想专门为你做点事也合情合理。",
+    "I’m honestly actually kinda flattered with how quickly they roped me into it once I asked.": "不过我主动提了之后，他们马上就拉我入伙，说真的，我还挺开心的。",
+    "... I know that it’s a big system out there, and a small village down here, but don’t forget about me, okay? I know exploring space and finally having a good translator to figure out what the Nomai were all about is a really big deal, but we’ve been such close friends for so long and, y’know…": "……我知道外面的太阳系那么大，而我们的村子这么小，但你可别忘了我，好吗？我知道探索太空、终于有了靠谱的翻译器能弄懂挪麦人的秘密是天大的事，但我们做了这么久的好朋友，而且……你懂的……",
+    "That’s a big deal to me, probably one of the biggest deals.": "你对我来说也很重要，或许是最重要的人之一。",
+    "Anyway, aahhh I’m running out of tape, the last part of the combo is the middle button okayflysafeby-": "总之，啊啊啊录音带快用完了！密码的最后一部分是按中间那个按钮，好了祝你一路平安——",
+    "The recording ends abruptly as it reaches the end of the tape.": "录音带走到尽头，声音戛然而止。",
+
+    //riebeck_hint_recorder.xml
+    "RECORDING": "录音",
+    "H-hey, hatchling! Hope you’re doing well! Although, I guess you listening to this means that you have to at least be alive, right?": "你、你好呀，小家伙！希望你一切都好！不过……你能听到这段录音，至少说明你还活着，对吧？",
+    "Unless you, like, crashed nearby and some rubble hit the play button, in which case you totally might be dead. Ah, I’m rambling again, sorry.": "除非你在附近坠毁了，碎石碰巧按到了播放键，那你可能已经……呃，我又絮叨了，抱歉抱歉。",
+    "Anyway, the next button you need to press is the, um,  right one… again. I would say the last button you need to press but, um, surprise! You actually still have one more hint to find. I would tell you who from but, uh, they asked that I keep it a surprise.": "言归正传，你接下来要按的密码按钮是……嗯，最右边那个……再按一次。我本想说这是最后一个按钮，但……唔，惊喜！你其实还得找最后一条线索。我本想告诉你是谁留的，但……呃，他们让我保密，说是惊喜。",
+    "When I get scared out here, in space I mean, one of the big things that helps me is that I can pull out my signalscope, listen to the other travelers, and know I’m not alone.": "每当我在太空里感到害怕时，有件事总能给我勇气——我会拿出信号镜，听听其他旅行者的声音，然后就知道自己不是孤身一人。",
+    "I know that that’s, well, really sappy, but I really do mean it, and I wanted to involve that in where I hid the last recording. So, um, I put it at Esker’s favorite spot to listen to the other travelers. S-stay safe hatchling!": "我知道这话听着……呃，肉麻麻的，但我是真心的。所以我把最后这段录音藏在了埃斯科最爱听其他旅行者声音的地方。一、一定要注意安全啊，小家伙！",
+
+    //slate_remote_dialogue.xml
+    "Slate": "斯雷特",
+    "Oh, hey! I almost forgot to tell you about that!": "哦，嘿！我差点忘了跟你说这事！",
+    "All the travelers worked together to set up a little scavenger hunt for you, kinda like an \"Introduction to the Solar System,\" I think. Even Feldspar made sure to participate before they, y’know, disappeared.": "所有旅行者一起为你准备了一场小型寻宝游戏，我觉得算是“太阳系入门指南”吧。就连费尔德斯巴，在他……你懂的，失踪之前，都特地来参加了。",
+    "Anyway, the first hint is a recording from Esker, sitting right next to me. They should give you a better idea of what exactly you’re supposed to be doing for this.": "对了，第一条线索是埃斯科的录音，就在我旁边。听完你应该就清楚这寻宝游戏具体要做什么了。",
+
+    //vault_interact.xml
+    "Vault": "保险箱",
+    "There seems to be a large, clockwork vault in front of you with some buttons on the front.": "你面前是一个巨大的发条式保险箱，正面有几个按钮。",
+    "What do you want to do?": "你想做什么？",
+    "Back away.": "退后。",
+    "Press random buttons.": "乱按按钮。",
+    "Enter the combination.": "输入密码。",
+    "Although the buttons make a satisfying clicking noise, nothing happens.": "按钮发出清脆的咔嗒声，但保险箱毫无反应。",
+    "Punching in the combination from the travelers and Hal, the vault swings open.": "输入旅行者们和哈尔告诉你的密码后，保险箱应声打开。",
+    "Inside, you find a picture in a simple wooden frame. The picture is from a few years ago, and shows everyone you know cramped in a room around a bed, smiling and posing for the camera.": "里面有一张装在简易木相框里的照片，是好几年前拍的。照片里你认识的所有人都挤在一间屋里，围在一张床边，笑着对着镜头摆姿势。",
+    "In the bed is a younger you, giving a thumbs up and a grin, bandages around your head and your right leg elevated in a cast.": "床上躺着年少时的你，头上缠着绷带，右腿打着石膏高高抬起，却依然竖起大拇指咧嘴笑着。",
+    "It’s a picture from after your first practice in the Zero-G Cave.": "这是你第一次在零重力洞穴训练受伤后拍的照片。",
+    "Turning the frame over, there’s a note taped to the back.": "把相框翻过来，背面贴着一张字条。",
+    "“From all of us to you, hatchling, so you don’t get lonely making big discoveries out there. ::)  Signed - Everyone”": "“致亲爱的小家伙：愿你在宇宙中探索伟大的奥秘时，永远不会感到孤单。::)\u000a爱你的所有人 敬上”",
+    "You slip the photo and note into your pocket, closing the vault.": "你把照片和字条塞进口袋，轻轻合上了保险箱。",
+    "You smile, knowing how much effort the others must have put into setting this up for you.": "你露出了微笑，心里清楚大家为了给你准备这份惊喜，一定费了不少心思。"
+  },
+
+  "ShipLogDictionary": {
+    //Attelrock.xml
+    "Mystery Hint": "神秘线索",
+    "Riebeck says that there's a recording from a mystery hearthian at Esker's favorite spot for listening to the other travelers music.": "瑞拜克说，有一位神秘的哈斯人将录音藏在了埃斯科最爱听其他旅行者演奏音乐的地方。",
+    "I found a hint from Hal on the Attelrock's north pole.": "我在废岩星的北极找到了哈尔留下的线索。",
+
+    //GiantsDeep.xml
+    "Chert's Hint": "切特的线索",
+    "Feldspar says that they left Chert's recording at the last place they visited before Dark Bramble.": "费尔德斯巴说，他把切特的录音藏在了前往黑棘星之前最后到访的地方。",
+    "I found Chert's recording in the core of Giant's Deep.": "我在深巨星的核心找到了切特的录音。",
+
+    //Interloper.xml
+    "Gabbro's Hint": "加布罗的线索",
+    "Apparently, Chert tied Gabbro's hint and fired it on the front of something small that nobody's landed on before.": "显然，切特把加布罗的线索绑在小侦察兵上，发射到了一个体积不大、此前从未有人登陆过的天体的正面。",
+    "Gabbro's hint was on the front of the Interloper.": "加布罗的线索就藏在闯入者的正面。",
+
+    //TimberHearth.xml
+    "Clockwork Vault": "发条保险箱",
+    "I found a weird clockwork vault next to the launch pad elevator.": "我在发射台电梯旁发现了一个古怪的发条保险箱。",
+    "I got part of the combo from a recording Esker left.": "我从埃斯科的录音里得到了一部分密码。",
+    "I got part of the combo from a recording Feldspar left.": "我从费尔德斯巴的录音里得到了一部分密码。",
+    "I got part of the combo from a recording Chert left.": "我从切特的录音里得到了一部分密码。",
+    "I got part of the combo from a recording Gabbro left.": "我从加布罗的录音里得到了一部分密码。",
+    "I got part of the combo from a recording Riebeck left.": "我从瑞拜克的录音里得到了一部分密码。",
+    "I got part of the combo from a recording Hal left.": "我从哈尔的录音里得到了一部分密码。",
+    "The vault contained an old picture and a very sweet note.": "保险箱里放着一张老照片，还有一张满是温情的字条。",
+    "Esker's Hint": "埃斯科的线索",
+    "Slate says that the recording next to him is a hint from Esker.": "斯雷特说，他旁边的录音是埃斯科留下的线索。",
+    "I found the first hint from Esker sitting next to slate.": "我在斯雷特旁边找到了埃斯科留下的第一条线索。",
+    "Apparently I should expect a scavenger hunt hint from every traveller. Once I find them all, I can open the vault.": "显然，每位旅行者都给我留了一条寻宝线索。找齐所有线索后，我就能打开那个保险箱了。",
+    "Feldspar's Hint": "费尔德斯巴的线索",
+    "According to Esker's hint, I can find Feldspar's recording somewhere where I can practice repairing my ship.": "根据埃斯科的线索，费尔德斯巴的录音藏在一个能让我练习修飞船的地方。",
+    "I found the recording from Feldspar in the \"satellite\" in the Zero-G Cave.": "我在零重力洞穴的“卫星”里找到了费尔德斯巴的录音。",
+    "Riebeck's Hint": "瑞拜克的线索",
+    "\"The quiet shade, where the trees do move, in the ancient glade, I’ve left something for you.\"": "“宁静阴凉处，树木非静物。林间空地中，予你留一物。”",
+    "I found Riebeck's recording next to Gabbro's quantum poem.": "我在加布罗的量子诗歌旁找到了瑞拜克的录音。"
+  }
+}
